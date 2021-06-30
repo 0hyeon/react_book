@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './2.4.4_AND';
+import App from './3.3.4_children'; //import 함수 from 파일이름
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(

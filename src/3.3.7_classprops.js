@@ -1,7 +1,7 @@
 import React, { Component }from 'react';
 import PropTypes from 'prop-types';
 
-class MyComponent extends Component {
+class MyComponent extends Component {//클래스형 컴포넌트
     render() {
         const { name,favoriteNumber,children } = this.props;//비구조화 할당 
         return(

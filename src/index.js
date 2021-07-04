@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './3.4.2.3_onecompo_anyuseState'; //import 함수 from 파일이름
+// import App from './3.4.2.3_onecompo_anyuseState'; //import 함수 from 파일이름
+import App from './4.2.3.1_temporay_method';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(

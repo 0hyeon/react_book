@@ -27,7 +27,7 @@ export class App extends Component {
                     type="text"
                     name="message"
                     placeholder="아무거나 입력해 보세요"
-                    value={this.state.message}
+                    value={this.state.message}//message에 값을담는다.
                     onChange={this.handleChange}
                 />
                 <button onClick={this.handleClick}>확인</button>
